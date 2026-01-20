@@ -4,7 +4,7 @@ import DetailImage from '../components/DetailImage'
 
 const About = () => {
   const courses = [{
-    img: '/src/assets/Abouts/webDesgin.png',
+    img: './src/assets/Abouts/webDesgin.png',
     heading: 'Web Designing',
     para: ' Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ut at provident officiis quam, amet veritatis ratione reiciendis! Atque ipsa.',
     design:false,
